@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|solutionrelative:yagorani\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|solutionrelative:yagorani\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|solutionrelative:yagorani\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|c:\\users\\ensar al\u0130\\source\\repos\\yagorani\\yagorani\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75DA9BC8-1BB1-406A-82C8-6F07C549710F}|yagorani\\yagorani.csproj|solutionrelative:yagorani\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "yagorani\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx",
+              "RelativeToolTip": "yagorani\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T20:32:54.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "yagorani\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx.cs",
+              "RelativeToolTip": "yagorani\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:50:03.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "yagorani\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "yagorani\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAkwIYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:49:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "yagorani\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\ENSAR AL\u0130\\Source\\Repos\\yagorani\\yagorani\\StyleSheet1.css",
+              "RelativeToolTip": "yagorani\\StyleSheet1.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-17T10:42:52.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
